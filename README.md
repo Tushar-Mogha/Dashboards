@@ -54,4 +54,4 @@ This portfolio is designed to:
 If you’d like to collaborate or discuss dashboards, feel free to connect:
 
 - **LinkedIn:** https://www.linkedin.com/in/tusharmogha/
-- **Email:** [your.email@example.com](#)
+- **Email:** tusharmogha71@gmail.com
